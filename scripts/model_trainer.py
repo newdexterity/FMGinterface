@@ -85,8 +85,6 @@ class ProcessData:
 
 			# Increments file counter
 			file_counter = file_counter + 1
-		df = pd.DataFrame(data=self.train)
-		df.to_csv('test.csv', index=False)
 
 	def add_file_extension(self, filename):
 		name = filename.split('.csv')[0] + '.csv'
