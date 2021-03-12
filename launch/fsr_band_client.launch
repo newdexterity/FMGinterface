@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+
+<!-- Launch gtec client -->
+
+<node pkg="FMGInterface" type="fsr_band_client.py" name="fsr_band_client" output="screen"  >
+  <!-- <rosparam file="$(find ndx_emg_teleop)/config/gUSBamp_client_config.yaml" command="load" /> -->
+</node>
+
+</launch>
+
