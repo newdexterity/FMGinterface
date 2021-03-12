@@ -1,0 +1,4 @@
+int32[] ch
+---
+bool success
+string message
