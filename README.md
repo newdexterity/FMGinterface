@@ -48,13 +48,13 @@ The performance of the armband was compared with state-of-the-art EMG bioamplifi
 where N is the size of the window applied to the data. Figure below shows the FMG, raw EMG, and feature extracted EMG recordings during the pinch, power, tripod, and extension gestures.
 
 <p align="center">
-  <img src = docs/Data_plot.png width="500">
+  <img src = docs/Data_plot.png width="700">
 </p>
 
 Table below shows the gesture decoding accuracy for each of the three datasets. It should be noted that the accuracy for the gesture decoding models is lowest for the ones developed using the data from raw EMG, while the accuracies for the models developed using the data from FMG and feature extracted EMG are comparable. However, using feature extracted EMG for developing the gesture decoding models introduce an extra step in computation, which might affect the real-time performance of the system.
 
 <p align="center">
-  <img src = docs/Table.png width="500">
+  <img src = docs/Table.png width="700">
 </p>
 
 To show an application of the proposed FMG armband, the gesture decoding model developed using the data collected for offline training was employed to decode the gestures in real-time and execute them on the NDX-A* robot hand. The demonstrations for the real-time gesture execution on the robot hand were recorded and the compiled video is available in HD quality at the following URL:
