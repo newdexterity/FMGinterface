@@ -33,7 +33,7 @@ The remaining components such as the micro-controller module and mounting compon
 
 ### Band Placement
 
-The FMG band was placed in the upper half of the forearm where the majority of the muscle groups responsible for the movements of the digits are located. These muscle groups include extensor digitorum, flexor digitorum superficialis, flexor digitorum profundus, and flexor pollicis longus. Figure below shows the placement of the armband and the EMG electrodes.
+The FMG band was placed in the upper half of the forearm where the majority of the muscle groups responsible for the movements of the digits are located. These muscle groups include extensor digitorum, flexor digitorum superficialis, flexor digitorum profundus, and flexor pollicis longus. Figure below shows the placement of the armband.
 
 <p align="center">
   <img src = docs/Band_placement.jpg width="500">
