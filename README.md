@@ -45,7 +45,7 @@ The performance of the armband was compared with state-of-the-art EMG bioamplifi
   <img src = docs/Equation.PNG width="200">
 </p>
 
-where N is the size of the window applied to the data. Figure below shows the FMG, raw EMG, and feature extracted EMG recordings during the pinch, power, tripod, and extension gestures.
+where N is the size of the window applied to the data. Figure below shows the FMG, raw EMG, and feature extracted EMG recordings during the pinch, power, tripod, and extension gestures. Subfigure a) shows the activation values for the FSR sensors, subfigure b) shows the raw EMG activations while subfigure c) shows the feature (RMS value) extracted value from the EMG signals.
 
 <p align="center">
   <img src = docs/Data_plot.png width="700">
